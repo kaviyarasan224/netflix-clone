@@ -101,7 +101,7 @@ body {
     
     
 }.cls:hover{
-    transform: scale(1.1);
+    transform: scale(1.01);
     transition: 0.4s;
 }#header>ul>li:hover{
    transform: scale(1.1);
@@ -208,7 +208,7 @@ body {
     
     
 }.cls:hover{
-    transform: scale(1.1);
+    transform: scale(1.01);
     transition: 0.4s;
 }#header>ul>li:hover{
    transform: scale(1.1);
@@ -328,7 +328,7 @@ body {
     
     
 }.cls:hover{
-    transform: scale(1.1);
+    transform: scale(1.01);
     transition: 0.4s;
 }#header>ul>li:hover{
    transform: scale(1.1);
