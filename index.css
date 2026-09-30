@@ -1126,3 +1126,12 @@ transform: scale(1.1);
     display: none;
 }
 }
+
+
+@media screen and (max-width:425px) {
+    .mainimg{
+        height: 450px;
+        width: 485px;
+    }
+}
+
